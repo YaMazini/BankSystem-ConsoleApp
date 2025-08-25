@@ -121,11 +121,7 @@ The project utilizes custom-built libraries:
 
 3. **Run the application**
    ```bash
-   # Linux/macOS
-./BankSystem
-
-   # Windows (if compiled with g++) 
-.\BankSystem.exe 
+   ./BankSystem
    ```
 
 ### Initial Setup
