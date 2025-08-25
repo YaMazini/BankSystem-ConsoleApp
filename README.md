@@ -242,7 +242,7 @@ For questions, suggestions, or contributions:
 - **Repository**: https://github.com/YaMazini/BankSystem-ConsoleApp
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 - **Discussions**: Use GitHub Discussions for general questions
-- **Email**: yohanan [at] mazini [dot] gmail [dot] com  (replace [at]/[dot] to email)
+- **Email**: yohananmazini@gmail.com
 
 ---
 
