@@ -1,10 +1,6 @@
 # BankSystem-ConsoleApp
-A C++ console banking system to practice OOP and clean code principles. 🏦
-
-
-# Bank System Console Application
-
 A comprehensive C++ console-based banking system designed to demonstrate Object-Oriented Programming (OOP) principles, clean code architecture, and practical file-based data management. This project showcases a real-world banking system implementation with proper separation of concerns and layered architecture.
+
 
 ## 📋 Table of Contents
 
